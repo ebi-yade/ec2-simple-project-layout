@@ -5,7 +5,7 @@ This is a minimal and simple layout for projects of an application which allowes
 ## Usage
 
 ```sh
-make vagrant
+make init
 ```
 
 ## Reference ( Related Repos )
